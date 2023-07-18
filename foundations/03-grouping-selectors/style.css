@@ -1,11 +1,12 @@
-.room{
+.one,
+.two{
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', serif;
 }
-#one{
+.one{
     background-color: black;
     color: white;
 }
-#two{
+.two{
     background-color: yellow;
 }
