@@ -1,0 +1,15 @@
+.class{
+    background-color: pink;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#two{
+    background-color: lightgreen;
+    font-weight: bold;
+}
